@@ -55,7 +55,7 @@
   
   ### 1. Joining the Organization
   If you're not yet a member of the DCIST-T2 organization:
-  - [Email the admin](billy.qi03@gmail.com) with the following information:
+  - [Email the admin](mailto:billy.qi03@gmail.com) with the following information:
     - Your GitHub username
     - Your email address
     - Your team name
