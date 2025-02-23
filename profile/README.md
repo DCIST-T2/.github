@@ -21,7 +21,7 @@
   - [Organization Structure](#-organization-structure)
   - [Repository Overview](#-repository-overview)
   - [Getting Started](#-getting-started)
-  - [Important Notes](#-important-notes)
+  - [Important Notes](#%EF%B8%8F-important-notes)
   
   ## 📁 Organization Structure
   
